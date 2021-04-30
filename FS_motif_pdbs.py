@@ -32,4 +32,4 @@ def find_sequence(filename_pdb, filename_txt):
 for file in sys.argv[2:]:
         find_sequence(file, sys.argv[1])
 
-# python FS_motif_pdbs.py PH_motif_seqs.fasta motif_pdbs_raw/*.pdb
+
